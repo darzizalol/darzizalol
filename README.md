@@ -1,7 +1,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhfang03@gmail.com) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/haohaohaoz88)
 
-![](https://komarev.com/ghpvc/?username=darzizalol&color=blue)
-
 ## Hi! 👋 I'm ZhengHao
 I'm currently schooling as a year 3 undergraduate in [NUS](https://www.comp.nus.edu.sg/).
 
